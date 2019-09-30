@@ -15,3 +15,18 @@ step5 : git push origin master
 
 
 /*----file upload complete---*/
+
+<style>
+/*----------Change Browser scrollbar color ---------*/
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: rgb(0, 0, 9, 0.66) !important;
+}
+::-webkit-scrollbar-track {
+    background-color: rgba(239, 3, 3, 0.66);
+    border-radius: 10px;
+}
+</style>
