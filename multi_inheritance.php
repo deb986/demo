@@ -48,7 +48,7 @@ $obj = new MyHelloWorld();
 $obj->hello();
 
 echo "<br><br>";
-/******---------------------- 3rd Advanced Way ---------------------------*********/
+/******---------------------- Advanced Way of 2nd ---------------------------*********/
 
 trait A {
     public function smallC() {
